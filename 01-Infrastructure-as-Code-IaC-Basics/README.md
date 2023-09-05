@@ -1,7 +1,7 @@
 # Infrastructure as Code Basics
 
-## Step-01: Understand Problems with Traditional way of Managing Infrastructure
-- Time it takes for building multiple environments
+## Step-01: Understand Problems with Traditional Way of Managing Infrastructure
+- Time it takes to build multiple environments
 - Issues we face with different environments
 - Scale-Up and Scale-Down On-Demand
 
